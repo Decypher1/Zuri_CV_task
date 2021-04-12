@@ -1,0 +1,14 @@
+* {
+font-family: sans-serif;
+}
+
+body {
+    background: white;
+    text-align: left;
+}
+h2 {
+    color: green;
+}
+hr {
+    color: green;
+}
